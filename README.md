@@ -17,5 +17,5 @@ O que aprenderei nesse curso
 - Angular 9: Componentes, Diretivas, Pipes, Services
 
 
-![image](https://github.com/user-attachments/assets/f1ac5a0e-f84d-4926-8359-9d5a2b25c097)
-![image](https://github.com/user-attachments/assets/217caef0-b906-4aa4-bd17-1579f9b2ada7)
+![413337505-f1ac5a0e-f84d-4926-8359-9d5a2b25c097](https://github.com/user-attachments/assets/2ef8b89c-8461-4f81-a9e9-a7409a936988)
+![413338093-217caef0-b906-4aa4-bd17-1579f9b2ada7](https://github.com/user-attachments/assets/406c152c-332d-439c-8192-fee21488e078)
